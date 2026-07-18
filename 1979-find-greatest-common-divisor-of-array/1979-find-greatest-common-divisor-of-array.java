@@ -8,9 +8,6 @@ class Solution {
                 if(min%i ==0 && max %i ==0){
                     ans=i;
                 }
-                // lse{
-                //     ans=1;
-                // }
             }
         return ans;
     }
