@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
