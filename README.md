@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0414-third-maximum-number](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [1260-shift-2d-grid](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0164-maximum-gap) |
+| [0414-third-maximum-number](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0414-third-maximum-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
