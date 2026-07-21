@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1952-three-divisors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
