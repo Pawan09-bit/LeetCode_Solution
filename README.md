@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
