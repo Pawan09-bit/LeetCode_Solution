@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0134-gas-station](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0414-third-maximum-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
