@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2469-convert-the-temperature) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/1952-three-divisors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pawan09-bit/LeetCode_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
